@@ -1,9 +1,9 @@
 
 database: testing
 app:
-  server: hinawi2.dyndns.org
-  database: AllPublisher
+  server: 11.22.33.44
+  database: database
   user: sa
-  password: P@ssw0rd@0nline
+  password: password
 my:
   url: http://chadicloud.com/
